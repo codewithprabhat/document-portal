@@ -79,6 +79,17 @@ The project is in active development with the core structure and basic functiona
 - Vector database integration for document storage
 - Chat interface optimization
 - Performance testing and optimization
+- **RAG Pipeline**: Worked on the RAG pipeline implementation in Jupyter notebook
+
+## Today's Class Work
+
+**Added entire RAG pipeline on experiment.ipynb**
+
+- Implemented complete RAG (Retrieval-Augmented Generation) pipeline in the experiments notebook
+- Developed document processing and retrieval mechanisms
+- Integrated vector embeddings for document similarity search
+- Created chat interface for document interaction
+- Tested and validated RAG pipeline functionality
 
 ## Getting Started
 
